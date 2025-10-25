@@ -69,14 +69,8 @@ By refining these strategies, the business can improve **profitability** and sus
 ## 📸 Sample Visualizations
 *(Add images here by saving charts as `.png` and uploading them in the repo)*
 
-- Top 10 Best-Selling Products  
+- Top 5 Best-Selling Products
 - Price Distribution  
 - Revenue vs. Gross Profit by Product Category  
 - Discounted vs. Non-Discounted Items  
 
----
-
-## 👩‍💻 Author
-Developed by **Baby Venkatachalam**  
-- [LinkedIn](www.linkedin.com/in/baby-venkatachalam-36ab64179)  
-- [Email](babyvenkatachalam2017@gmail.com)
