@@ -78,5 +78,5 @@ By refining these strategies, the business can improve **profitability** and sus
 
 ## 👩‍💻 Author
 Developed by **Baby Venkatachalam**  
-- [LinkedIn](#)  
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/baby-venkatachalam-36ab64179)  
+- [Email](babyvenkatachalam2017@gmail.com)
